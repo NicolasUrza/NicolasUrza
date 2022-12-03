@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasUrza
-- 👀 I’m interested in learning about software development, AI
-- 🌱 I’m currently learning "systems engineering" (2° year)
+- 👀 I’m interested in learning about web development
+- 🌱 I’m currently learning "systems engineering" (4° year)
 - 📫 How to reach me nicolasurza@gmail.com
 
 <!---
