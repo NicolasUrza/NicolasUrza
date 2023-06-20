@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicolasUrza
-- 👀 I’m interested in learning about web development
-- 🌱 I’m currently learning "systems engineering" (4° year)
-- 📫 How to reach me nicolasurza@gmail.com
+- 👀 I’m a full stack web developer
+- 🌱 I’m currently on my 4° year of "systems engineering" at UTN-FRC
+- 📫 you can reach out sending me an email to nicolasurza@gmail.com
 
 <!---
 NicolasUrza/NicolasUrza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
